@@ -1,0 +1,73 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "PT Sans", sans-serif;
+}
+
+.about-page,
+.contact-us-page,
+.homes-page,
+.services-page,
+.sign-in-page,
+.sign-up-page {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.about-page {
+  background-image: url("./Component/Images/12.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.contact-us-page {
+  background-image: url("./Component/Images/13.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.homes-page {
+  background-image: url("./Component/Images/14.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.services-page {
+  background-image: url("./Component/Images/15.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.sign-in-page {
+  background-image: url("./Component/Images/16.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.sign-up-page {
+  background-image: url("./Component/Images/17.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
